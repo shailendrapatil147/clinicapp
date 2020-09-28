@@ -1,0 +1,80 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+/.vs
+/LZ.PE.Helper.Tool.BusinessLogic/bin/
+/LZ.PE.Helper.Tool.BusinessLogic/obj/Debug
+/LZ.PE.Helper.Tool.BusinessLogic/obj/Debug
+/LZ.PE.Helper.Tool.Common/bin/
+/LZ.PE.Helper.Tool.Common/obj/Debug
+/LZ.PE.Helper.Tool.Contracts/bin/Debug
+/LZ.PE.Helper.Tool.Contracts/obj/Debug
+/packages
+/LZ.PE.Helper.Tool.Winform/obj/Debug
+/LZ.PE.Helper.Tool.Winform/bin/Debug
+/LZ.PE.Helper.Tool.Services/obj/Debug
+/LZ.PE.Helper.Tool.Services/bin/Debug
+/LZ.PE.Helper.Tool.Repository/obj/Debug
+/LZ.PE.Helper.Tool.Repository/bin/
+/~oldTool/DataFix.Resolver
+/LZ.PE.Helper.Tool.BusinessLogic/bin/Dev
+/LZ.PE.Helper.Tool.BusinessLogic/obj
+/LZ.PE.Helper.Tool.Common/bin/Dev
+/LZ.PE.Helper.Tool.Common/obj
+/LZ.PE.Helper.Tool.Contracts/bin/
+/LZ.PE.Helper.Tool.Contracts/obj
+/LZ.PE.Helper.Tool.Repository/obj
+/LZ.PE.Helper.Tool.Repository/bin/Dev
+/LZ.PE.Helper.Tool.Services/obj
+/LZ.PE.Helper.Tool.Winform/App.Release.config
+/LZ.PE.Helper.Tool.Winform/App.QA.config
+/LZ.PE.Helper.Tool.Winform/App.Prod.config
+/LZ.PE.Helper.Tool.Winform/App.Dev.config
+/LZ.PE.Helper.Tool.Winform/App.Debug.config
+/LZ.PE.Helper.Tool.Winform/App.config
+/LZ.PE.Helper.Tool.Winform/obj
+/LZ.PE.Helper.Tool.Winform/obj/QA
+/LZ.PE.Helper.Tool.Winform/LZ.PE.Helper.Tool.Winform.csproj.user
+/LZ.PE.Helper.Tool.Api
+/LZ.PE.Helper.Tool.Winform/bin/
+/LZ.PE.Helper.Tool.Win.Setup/Debug
+/LZ.PE.Helper.Tool.Win.Setup/Release
+/Clinic/obj
+/Clinic/bin/Debug/netcoreapp3.1
+/Clinic.Common/bin/Debug/netcoreapp3.1
+/Clinic.Common/obj
+/Clinic.Contracts/bin/Debug/netcoreapp3.1
+/Clinic.Contracts/obj
+/Clinic.Managers/obj
+/Clinic.Managers/bin/Debug/netcoreapp3.1
+/Clinic.Repositories/obj
+/Clinic.Repositories/bin/Debug/netcoreapp3.1
